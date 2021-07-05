@@ -1,0 +1,9 @@
+Pc and npc-Player,Quizes 
+chance vs skill-winning and losing, to reach the goal./how to solve them.
+Goal-reaching the house and collecting the flag .
+Story- a player has to reach the goal solving the mystry on the way to the goal(house).
+rules-solving the puzzles.
+balance-sometimes the puzzles may tough.
+feedback-levels and the parts in the game.
+name of the game-
+
